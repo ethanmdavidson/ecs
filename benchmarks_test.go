@@ -2,10 +2,10 @@ package ecs_test
 
 import (
 	"fmt"
-	"github.com/andygeiss/ecs/core"
-	"github.com/andygeiss/ecs/engines"
-	"github.com/andygeiss/ecs/entities"
-	"github.com/andygeiss/ecs/systems"
+	"github.com/ethanmdavidson/ecs/core"
+	"github.com/ethanmdavidson/ecs/engines"
+	"github.com/ethanmdavidson/ecs/entities"
+	"github.com/ethanmdavidson/ecs/systems"
 	"math/rand"
 	"testing"
 )

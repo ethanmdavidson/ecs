@@ -1,9 +1,9 @@
 package engines_test
 
 import (
-	"github.com/andygeiss/ecs/core"
-	"github.com/andygeiss/ecs/engines"
 	"github.com/andygeiss/utils/assert"
+	"github.com/ethanmdavidson/ecs/core"
+	"github.com/ethanmdavidson/ecs/engines"
 	"testing"
 )
 

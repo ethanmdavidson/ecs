@@ -1,10 +1,9 @@
 package core_test
 
 import (
-	"github.com/andygeiss/ecs/core"
-	"testing"
-
 	"github.com/andygeiss/utils/assert"
+	"github.com/ethanmdavidson/ecs/core"
+	"testing"
 )
 
 func TestEntity_NewEntity_Should_Create_A_Correct_Mask(t *testing.T) {

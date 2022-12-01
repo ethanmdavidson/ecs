@@ -1,7 +1,7 @@
 # ECS - Entity Component System
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/andygeiss/ecs)](https://goreportcard.com/report/github.com/andygeiss/ecs)
-[![BCH compliance](https://bettercodehub.com/edge/badge/andygeiss/ecs?branch=master)](https://bettercodehub.com/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ethanmdavidson/ecs)](https://goreportcard.com/report/github.com/ethanmdavidson/ecs)
+[![BCH compliance](https://bettercodehub.com/edge/badge/ethanmdavidson/ecs?branch=master)](https://bettercodehub.com/)
 
 **Build your own Game-Engine based on the Entity Component System concept in Golang**
 
@@ -31,7 +31,7 @@ A **System** handles the behaviour or logic of the components. A movement system
 
 **From Source**
 
-    go get -u github.com/andygeiss/ecs
+    go get -u github.com/ethanmdavidson/ecs
 
 ## Steps to start
 
@@ -60,3 +60,8 @@ However if you want the fastest possible solution you need to know that `FilterB
 This will maybe not impact your Game if there are only a few thousands of entities. ;-)
 
 ![bench](bench.png)
+
+## Credit
+
+This is a friendly fork of [andygeiss/ecs](https://github.com/andygeiss/ecs) and the credit for all this code 
+belongs to him.

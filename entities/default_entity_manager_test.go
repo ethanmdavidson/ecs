@@ -1,9 +1,9 @@
 package entities_test
 
 import (
-	"github.com/andygeiss/ecs/core"
-	"github.com/andygeiss/ecs/entities"
 	"github.com/andygeiss/utils/assert"
+	"github.com/ethanmdavidson/ecs/core"
+	"github.com/ethanmdavidson/ecs/entities"
 	"testing"
 )
 

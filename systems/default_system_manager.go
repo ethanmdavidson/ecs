@@ -1,7 +1,7 @@
 package systems
 
 import (
-	"github.com/andygeiss/ecs/core"
+	"github.com/ethanmdavidson/ecs/core"
 )
 
 // defaultSystemManager
